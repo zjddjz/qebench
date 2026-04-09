@@ -1,2 +1,0 @@
-评判deepseek_V3_2_Exp模型回答的第4题的可视化程度时，出现异常！！！异常为:Exception:Error writing to Excel file: [Errno 13] Permission denied: 'C:/Users/19029/Desktop/explainBenchmark/explainBenchmark.xlsx'
-评判deepseek_V3_2_Exp模型回答的第4题的可视化程度时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
