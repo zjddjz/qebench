@@ -1,0 +1,32 @@
+评判qwen3_max模型回答的第3题时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
+评判dou_bao_seed_1_6_thinking_25071模型回答的第308题时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
+评判glm_4_5v模型回答的第335题时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
+评判qwen3_next_80b_a3b_thinking模型回答的第343题时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
+评判glm_4_5v模型回答的第446题时，出现异常！！！异常为:Exception:Error writing to Excel file: 首先，我需要将测试用例中的标准答案和模型的回答进行对比。标准答案有两个要点：
+
+
+评判claude_sonnet_4_5_thinking模型回答的第31题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判gpt_5_high模型回答的第90题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判o4_mini_high模型回答的第101题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判claude_sonnet_4_5_thinking模型回答的第105题时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
+评判o4_mini_high模型回答的第112题时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
+评判claude_sonnet_4_5_thinking模型回答的第129题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判o4_mini_high模型回答的第253题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判o4_mini_high模型回答的第263题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判o4_mini_high模型回答的第265题时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
+评判claude_sonnet_4_5_thinking模型回答的第264题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判gpt_5_high模型回答的第319题时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
+评判gemini_2_5_pro模型回答的第181题时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
+评判claude_sonnet_4_5_thinking模型回答的第283题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判claude_sonnet_4_5_thinking模型回答的第408题时，出现异常！！！异常为:TypeError:cannot unpack non-iterable NoneType object
+评判gemini_2_5_pro模型回答的第358题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判claude_sonnet_4_5_thinking模型回答的第424题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判o4_mini_high模型回答的第435题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判gemini_2_5_pro模型回答的第373题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判gpt_5_high模型回答的第485题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判gpt_5_high模型回答的第488题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判gemini_2_5_pro模型回答的第384题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判gpt_5_high模型回答的第492题时，出现异常！！！异常为:NotFoundError:Error code: 404
+评判o4_mini_high模型回答的第473题时，出现异常！！！异常为:APITimeoutError:Request timed out.
+#####
+
